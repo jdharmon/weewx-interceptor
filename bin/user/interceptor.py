@@ -2364,6 +2364,22 @@ class EcowittClient(Consumer):
             'wh65batt': 'wh65_battery',
             'pm25_ch1': 'pm2_5',
             'pm25batt1': 'pm25_battery',
+            'tf_ch1': 'soil_temperature_1',
+            'tf_ch2': 'soil_temperature_2',
+            'tf_ch3': 'soil_temperature_3',
+            'tf_ch4': 'soil_temperature_4',
+            'tf_ch5': 'soil_temperature_5',
+            'tf_ch6': 'soil_temperature_6',
+            'tf_ch7': 'soil_temperature_7',
+            'tf_ch8': 'soil_temperature_8',
+            'tf_batt1': 'soil_temperature_battery_1',
+            'tf_batt2': 'soil_temperature_battery_2',
+            'tf_batt3': 'soil_temperature_battery_3',
+            'tf_batt4': 'soil_temperature_battery_4',
+            'tf_batt5': 'soil_temperature_battery_5',
+            'tf_batt6': 'soil_temperature_battery_6',
+            'tf_batt7': 'soil_temperature_battery_7',
+            'tf_batt8': 'soil_temperature_battery_8',
         }
 
         IGNORED_LABELS = [
